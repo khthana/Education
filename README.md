@@ -25,7 +25,7 @@
 <li> <a href="http://www.teachthought.com/pedagogy/27-ways-to-enhance-retention-in-your-students/">27 Ways To Enhance Retention In Your Students</a><br>
 <li> <a href="https://nairienroo.wordpress.com/2015/08/23/constructionism/">Constructionism อาจารย์บุญเลิศ คณาธนสาร</a><br>
 <li> <a href="http://www.teachthought.com/pedagogy/literacy/21-literacy-resources-for-the-digital-teacher/">21 Literacy Resources For The Digital Teacher</a><br>
-
+<li> <a href="http://www.teachthought.com/pedagogy/30225/">10 Strategies To Make Learning Feel More Like A Game</a><br>
 </ol>
 <h2>Assessment</h2>
 
