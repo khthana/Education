@@ -24,13 +24,14 @@
 <li> <a href="http://www.teachthought.com/pedagogy/27-ways-inspire-innovative-thinking-students/">27 Ways To Inspire Innovative Thinking In Students</a><br>
 <li> <a href="http://www.teachthought.com/pedagogy/27-ways-to-enhance-retention-in-your-students/">27 Ways To Enhance Retention In Your Students</a><br>
 <li> <a href="https://nairienroo.wordpress.com/2015/08/23/constructionism/">Constructionism อาจารย์บุญเลิศ คณาธนสาร</a><br>
+<li> <a href="http://www.teachthought.com/pedagogy/literacy/21-literacy-resources-for-the-digital-teacher/">21 Literacy Resources For The Digital Teacher</a><br>
 
 </ol>
 <h2>Assessment</h2>
 
 <ol>
 <li> <a href="http://www.teachthought.com/pedagogy/assessment/the-most-important-question-every-assessment-should-answer/?utm_content=buffer8c3f1&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer">The Most Important Question Every Assessment Should Answer</a><br>
-
+<li> <a href="http://www.quickrubric.com/">Quick Rubric</a><br>
 </ol>
 
 <li> <a href="http://www.teachthought.com/learning/learning-models-learning-theories-index/">A Dictionary For 21st Century Teachers: Learning Models & Technology</a><br>
