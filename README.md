@@ -8,8 +8,8 @@
 <li> <a href="http://www.teachthought.com/learning/project-based-learning/using-project-based-learning-flip-blooms-taxonomy-deeper-learning/?utm_content=buffere07e1&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer">Using Project-Based Learning To Flip Bloom’s Taxonomy For Deeper Learning</a></li>
 <li> <a href="http://www.teachthought.com/learning/project-based-learning/great-teaching-learning-grows-pbl-umbrella/?utm_content=buffer09a4c&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer">How Great Teaching And Learning Grow Under The PBL Umbrella</a></li>
 <li> <a href="http://www.teachthought.com/critical-thinking/inquiry/5-characteristics-of-project-based-learning-that-works/ "> 5 Characteristics Of Project-Based Learning That Works</a></li>
-<li> <a href=" "> </a></li>
-<li> <a href=" "> </a></li>
+<li> <a href="http://www.teachthought.com/learning/project-based-learning/5-strategies-begin-project-planning/ ">5 Powerful Teaching Strategies For Project-Based Learning </a></li>
+<li> <a href="http://www.teachthought.com/learning/project-based-learning/4-things-project-based-learning-teachers/ ">4 Things All Project-Based Learning Teachers Should Do </a></li>
 
 </ol>
 
