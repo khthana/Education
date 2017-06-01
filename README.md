@@ -58,7 +58,13 @@
 <li> <a href="http://www.teachthought.com/pedagogy/instructional-strategies/9-steps-scaffold-learning-improved-understanding/ ">9 Steps To Scaffold Learning For Improved Understanding </a></li>
 <li> <a href="http://www.teachthought.com/the-future-of-learning/12-principles-of-modern-learning/ ">12 Principles Of Modern Learning </a></li>
 <li> <a href="http://bigthink.com/ideafeed/can-you-be-taught-how-to-think-better ">Study: There Are Instructions for Teaching Critical Thinking </a></li>
-<li> <a href=" "> </a></li>
+<li> <a href="http://www.teachthought.com/the-future-of-learning/trends-shifts/becoming-innovative-15-new-ideas-every-teacher-should-try/ ">Becoming Innovative: 15 New Ideas Every Teacher Should Try </a></li>
+<li> <a href="http://www.teachthought.com/pedagogy/literacy/21-literacy-resources-for-the-digital-teacher/ "> 21 Literacy Resources For The Digital Teacher</a></li>
+<li> <a href="https://www.youtube.com/watch?v=4Fy5MUzdWMg ">Bloom's Taxonomy  </a></li>
+<li> <a href="http://www.teachthought.com/critical-thinking/inquiry/20-questions-guide-inquiry-based-learning/ ">20 Questions To Guide Inquiry-Based Learning</a></li>
+<li> <a href="http://teachthought.com/the-future-of-learning/trends-shifts/12-examples-of-gamification-in-the-classroom/ ">12 Examples Of Gamification In The Classroom</a></li>
+<li> <a href=" "></a></li>
+<li> <a href=" "></a></li>
 </ol>
 
 <h2>Assessment</h2>
@@ -72,6 +78,9 @@
 <li> <a href="https://engagetheirminds.com/2017/02/01/formative-assessment-with-hexagonal-learning/ ">Formative Assessment with Hexagonal Learning </a></li>
 <li> <a href="http://www.teachthought.com/pedagogy/assessment/increasing-rigor-in-summative-assessment-4-examples/ "> 4 Examples Of Increasing Rigor In Summative Assessment </a></li>
 <li> <a href="https://www.youtube.com/watch?v=uFiQhikysqw ">Formative 2016 Tutorial GoFormative </a></li>
+<li> <a href="https://www.flickr.com/photos/vblibrary/4576825411/ ">Critical Thinking Skills</a></li>
+<li> <a href="https://www.washingtonpost.com/news/answer-sheet/wp/2015/04/23/how-teachers-want-to-evaluate-their-students/?utm_term=.7c79eea5221e ">How teachers want to evaluate their students</a></li>
+<li> <a href="http://www.teachthought.com/pedagogy/assessment/assessment-design-matrix-assess-assessments/ ">Assessment Design: A Matrix To Assess Your Assessments</a></li>
 <li> <a href=" "></a></li>
 <li> <a href=" "></a></li>
 <li> <a href=" "></a></li>
@@ -95,3 +104,9 @@
 <li> <a href="https://www.youtube.com/watch?v=sSFSSowyEQs ">3 ways to know what students really think </a></li>
 <li> <a href="https://brightside.me/wonder-curiosities/10-facts-about-brain-work-which-prove-were-capable-of-anything-311910/ "> 10 Facts About Brain Work Which Prove We’re Capable of Anything</a></li>
 <li> <a href="http://www.trueplookpanya.com/new/cms_detail/teacher/26274 "> “ครูแท้แพ้ไม่เป็น” เสียงจากครูเรฟสู่การปฏิรูปครู</a></li>
+<li> <a href="https://www.youtube.com/watch?v=g4BgU0z0VYY ">ประสบการณ์การศึกษาดูงานการจัดการเรียนรู้เชิงรุก มหาวิทยาลัยโซกะ ประเทศญี่ปุ่น โดย ดร.ชนิกานต์ ว่องวิริยะวงศ์ </a></li>
+<li> <a href="https://www.facebook.com/kmuttxclassroom/posts/1324543330970830 ">What about engineering?</a></li>
+<li> <a href="https://www.youtube.com/watch?v=Pzz_q4pQeTM ">ตอนที่ 1 แนวการจัดกิจกรรมการเรียนรู้วิทยาศาสตร์ที่เน้นกระบวนการคิดวิเคราะห์ และแก้ปัญหา 11 ก.พ.60</a></li>
+<li> <a href="https://www.youtube.com/watch?v=hAr_ZOv6JMM ">โครงการพัฒนาเครื่องมือส่งเสริมการคิดวิเคราะห์สร้างสรรค์ของ OECD </a></li>
+<li> <a href="https://www.teacherspayteachers.com/Product/10-Team-Building-Games-That-Promote-Critical-Thinking-3072418 ">10 Team-Building Games That Promote Critical Thinking</a></li>
+<li> <a href=" "></a></li>
