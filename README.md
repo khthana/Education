@@ -80,7 +80,7 @@
 <li> <a href="https://www.flickr.com/photos/vblibrary/4576825411/ ">Critical Thinking Skills</a></li>
 <li> <a href="https://www.washingtonpost.com/news/answer-sheet/wp/2015/04/23/how-teachers-want-to-evaluate-their-students/?utm_term=.7c79eea5221e ">How teachers want to evaluate their students</a></li>
 <li> <a href="http://www.teachthought.com/pedagogy/assessment/assessment-design-matrix-assess-assessments/ ">Assessment Design: A Matrix To Assess Your Assessments</a></li>
-<li> <a href=" "></a></li>
+<li> <a href="https://www.edutopia.org/resource/editable-sample-rubric-download ">Editable Sample Rubric</a></li>
 <li> <a href=" "></a></li>
 
 </ol>
