@@ -10,15 +10,14 @@
 <li> <a href="http://www.teachthought.com/critical-thinking/inquiry/5-characteristics-of-project-based-learning-that-works/ "> 5 Characteristics Of Project-Based Learning That Works</a></li>
 <li> <a href=" "> </a></li>
 <li> <a href=" "> </a></li>
-<li> <a href=" "> </a></li>
-<li> <a href=" "> </a></li>
+
 </ol>
 
 <h2>Problem Based Learning</h2>
 <ol>
 <li> <a href=" "> </a></li>
 <li> <a href=" "> </a></li>
-<li> <a href=" "> </a></li>
+
 </ol>
 
 <h2>Teaching and Learning</h2>
@@ -83,7 +82,7 @@
 <li> <a href="http://www.teachthought.com/pedagogy/assessment/assessment-design-matrix-assess-assessments/ ">Assessment Design: A Matrix To Assess Your Assessments</a></li>
 <li> <a href=" "></a></li>
 <li> <a href=" "></a></li>
-<li> <a href=" "></a></li>
+
 </ol>
 
 <h2>อื่นๆ </h2>
