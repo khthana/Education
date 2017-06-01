@@ -15,11 +15,10 @@
 </ol>
 
 <h2>Problem Based Learning</h2>
-<li> <a href=" "> </a></li>
-<li> <a href=" "> </a></li>
-<li> <a href=" "> </a></li>
 <ol>
-
+<li> <a href=" "> </a></li>
+<li> <a href=" "> </a></li>
+<li> <a href=" "> </a></li>
 </ol>
 
 <h2>Teaching and Learning</h2>
@@ -39,8 +38,22 @@
 <li> <a href="http://www.teachthought.com/the-future-of-learning/10-things-every-great-school-should-be/ ">10 Things Every Great School Should Be </a></li>
 <li> <a href="http://www.teachthought.com/pedagogy/10-ways-traditional-classrooms-punish-mistakes-in-learning/ ">10 Ways Traditional Classrooms Punish Mistakes In Learning</a></li>
 <li> <a href="http://teachthought.com/pedagogy/27-ways-inspire-innovative-thinking-students/ ">27 Ways To Inspire Innovative Thinking In Students </a></li>
-<li> <a href=" "> </a></li>
-<li> <a href=" "> </a></li>
+<li> <a href="https://www.facebook.com/sutat.eaka/posts/1144672245580932 ">เทคนิค การสอนคน ให้เกิด “ปัญญา” </a></li>
+<li> <a href="https://www.facebook.com/sutat.eaka/posts/1136975059683984 ">ทฤษฎีที่อยู่เบื้องหลัง ความสำเร็จทางการศึกษา  </a></li>
+<li> <a href="https://www.youtube.com/watch?v=EWIfEnEpuBQ ">ครูสมพร สอนลิง </a></li>
+<li> <a href="https://www.youtube.com/watch?v=yQNW03dqGEQ ">การวิจัยเพื่อพัฒนาการเรียนการสอน </a></li>
+<li> <a href="http://www.teachthought.com/critical-thinking/bertrand-russells-10-rules-of-critical-thinking/ ">Bertrand Russell’s 10 Essential Rules Of Critical Thinking </a></li>
+<li> <a href="https://www.facebook.com/MindShift.KQED/photos/a.285520908150502.58308.143782868990974/1089170737785511/?type=3&theater ">How can we move students up the ladder of engagement? </a></li>
+<li> <a href="https://www.facebook.com/MindShift.KQED/photos/a.285520908150502.58308.143782868990974/1095041407198444/?type=3&theater ">Checklist for Teacher </a></li>
+<li> <a href="https://www.facultyfocus.com/articles/effective-teaching-strategies/teaching-critical-thinking-practical-points/ ">Teaching Critical Thinking: Some Practical Points </a></li>
+<li> <a href="https://www.facebook.com/khthana/posts/10203451514982222:0 ">Teachable Teacher </a></li>
+<li> <a href="https://www.facebook.com/thanunchai.tpk/posts/1385764728102301 ">คู่มือครูสมัยใหม่ ตอนที่2 </a></li>
+<li> <a href="https://www.facebook.com/celtkmutt/videos/1163523297060182/ ">Beginner training at KMUTT </a></li>
+<li> <a href="http://www.teachthought.com/pedagogy/how-technology-has-changed-education/ ">How Technology Should Have Already Changed Your Teaching </a></li>
+<li> <a href="http://www.teachthought.com/pedagogy/25-alternatives-whatd-learn-school-today/"> 25 Alternatives To What’d You Learn In School Today? </a></li>
+<li> <a href="http://www.teachthought.com/pedagogy/alternatives-to-homework-a-chart-for-teachers/ ">Alternatives To Homework: A Chart For Teachers </a></li>
+<li> <a href="http://theconversation.com/lets-ban-powerpoint-in-lectures-it-makes-students-more-stupid-and-professors-more-boring-36183 ">Let’s ban PowerPoint in lectures – it makes students more stupid and professors more boring  </a></li>
+<li> <a href="https://www.facebook.com/celtkmutt/videos/1172917282787450/ ">How to write and assess learning outcomes </a></li>
 <li> <a href=" "> </a></li>
 </ol>
 
@@ -59,3 +72,9 @@
 <li> <a href="http://www.teachthought.com/learning/learning-models-learning-theories-index/">A Dictionary For 21st Century Teachers: Learning Models & Technology</a></li>
 <li> <a href="https://www.facebook.com/lamplaimatpattanaschool/videos/10154068618015399/ ">สัมภาษณ์ ครูใหญ่ วิเชียร ไชยบัง
 ในหัวข้อ "โรงเรียนนอกกะลา - ครูนอกกรอบ" </a></li>
+<li> <a href="https://www.facebook.com/lamplaimatpattanaschool/videos/10153810487135399/ ">ปาฐกถา : โรงเรียนต้นแบบงอกนอกกะลา กับ การปฏิรูปการศึกษา โดย ศ.นพ.วิจารณ์ พานิช </a></li>
+<li> <a href="https://presentationben.com/2016/04/01/%e0%b8%a7%e0%b8%b4%e0%b8%98%e0%b8%b5%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b8%a2%e0%b8%87%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%81/ ">วิธีการบันทึกเสียงประกอบสไลด์ด้วย Keynote </a></li>
+<li> <a href="https://www.youtube.com/watch?v=atNq0bKJohs ">การสอนครั้งสุดท้ายของ Walter Lewin </a></li>
+<li> <a href="https://nairienroo.wordpress.com/ ">อาจารย์บุญเลิศ คณาธนสาร </a></li>
+<li> <a href="https://www.facebook.com/curadio/videos/1494693993891376/ ">อะไรทำให้ “ฟินแลนด์” เป็นประเทศ “ต้นแบบการศึกษา” </a></li>
+<li> <a href="http://thaipublica.org/2015/09/varakorn-14-9-2558/ ">“วรากรณ์ สามโกเศศ” ชี้ 8 ยาพิษแอบแฝงกับการศึกษาไทย เหมือนปรอท ทำให้ตายทีละน้อย </a></li>
