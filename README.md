@@ -7,7 +7,7 @@
 <li> <a href="http://www.teachthought.com/critical-thinking/inquiry/5-characteristics-of-project-based-learning-that-works/">5 Characteristics Of Project-Based Learning That Works</a></li>
 <li> <a href="http://www.teachthought.com/learning/project-based-learning/using-project-based-learning-flip-blooms-taxonomy-deeper-learning/?utm_content=buffere07e1&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer">Using Project-Based Learning To Flip Bloom’s Taxonomy For Deeper Learning</a></li>
 <li> <a href="http://www.teachthought.com/learning/project-based-learning/great-teaching-learning-grows-pbl-umbrella/?utm_content=buffer09a4c&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer">How Great Teaching And Learning Grow Under The PBL Umbrella</a></li>
-<li> <a href=" "> </a></li>
+<li> <a href="http://www.teachthought.com/critical-thinking/inquiry/5-characteristics-of-project-based-learning-that-works/ "> 5 Characteristics Of Project-Based Learning That Works</a></li>
 <li> <a href=" "> </a></li>
 <li> <a href=" "> </a></li>
 <li> <a href=" "> </a></li>
@@ -41,6 +41,7 @@
 <li> <a href="https://www.facebook.com/sutat.eaka/posts/1144672245580932 ">เทคนิค การสอนคน ให้เกิด “ปัญญา” </a></li>
 <li> <a href="https://www.facebook.com/sutat.eaka/posts/1136975059683984 ">ทฤษฎีที่อยู่เบื้องหลัง ความสำเร็จทางการศึกษา  </a></li>
 <li> <a href="https://www.youtube.com/watch?v=EWIfEnEpuBQ ">ครูสมพร สอนลิง </a></li>
+<li> <a href="https://www.youtube.com/watch?v=QJtB9dUJu6U ">ครูสมพร สอนลิง  </a></li>
 <li> <a href="https://www.youtube.com/watch?v=yQNW03dqGEQ ">การวิจัยเพื่อพัฒนาการเรียนการสอน </a></li>
 <li> <a href="http://www.teachthought.com/critical-thinking/bertrand-russells-10-rules-of-critical-thinking/ ">Bertrand Russell’s 10 Essential Rules Of Critical Thinking </a></li>
 <li> <a href="https://www.facebook.com/MindShift.KQED/photos/a.285520908150502.58308.143782868990974/1089170737785511/?type=3&theater ">How can we move students up the ladder of engagement? </a></li>
@@ -54,6 +55,9 @@
 <li> <a href="http://www.teachthought.com/pedagogy/alternatives-to-homework-a-chart-for-teachers/ ">Alternatives To Homework: A Chart For Teachers </a></li>
 <li> <a href="http://theconversation.com/lets-ban-powerpoint-in-lectures-it-makes-students-more-stupid-and-professors-more-boring-36183 ">Let’s ban PowerPoint in lectures – it makes students more stupid and professors more boring  </a></li>
 <li> <a href="https://www.facebook.com/celtkmutt/videos/1172917282787450/ ">How to write and assess learning outcomes </a></li>
+<li> <a href="http://www.teachthought.com/pedagogy/instructional-strategies/9-steps-scaffold-learning-improved-understanding/ ">9 Steps To Scaffold Learning For Improved Understanding </a></li>
+<li> <a href="http://www.teachthought.com/the-future-of-learning/12-principles-of-modern-learning/ ">12 Principles Of Modern Learning </a></li>
+<li> <a href="http://bigthink.com/ideafeed/can-you-be-taught-how-to-think-better ">Study: There Are Instructions for Teaching Critical Thinking </a></li>
 <li> <a href=" "> </a></li>
 </ol>
 
@@ -63,8 +67,14 @@
 <li> <a href="http://www.teachthought.com/pedagogy/assessment/the-most-important-question-every-assessment-should-answer/?utm_content=buffer8c3f1&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer">The Most Important Question Every Assessment Should Answer</a></li>
 <li> <a href="http://www.quickrubric.com/">Quick Rubric</a></li>
 <li> <a href="http://www.educatorstechnology.com/2016/08/the-best-8-web-tools-for-doing.html "> 8 tools for Formative  Assessment</a></li>
-<li> <a href=" "> </a></li>
-<li> <a href=" "> </a></li>
+<li> <a href="https://www.facebook.com/kmuttxclassroom/posts/1230673347024496 ">การตัดเกรดกับ OBE </a></li>
+<li> <a href="http://www.freetech4teachers.com/2017/02/21-tools-for-conducting-digital.html#.WS-HRMakLIU ">21 Tools for Conducting Digital Formative Assessments  </a></li>
+<li> <a href="https://engagetheirminds.com/2017/02/01/formative-assessment-with-hexagonal-learning/ ">Formative Assessment with Hexagonal Learning </a></li>
+<li> <a href="http://www.teachthought.com/pedagogy/assessment/increasing-rigor-in-summative-assessment-4-examples/ "> 4 Examples Of Increasing Rigor In Summative Assessment </a></li>
+<li> <a href="https://www.youtube.com/watch?v=uFiQhikysqw ">Formative 2016 Tutorial GoFormative </a></li>
+<li> <a href=" "></a></li>
+<li> <a href=" "></a></li>
+<li> <a href=" "></a></li>
 </ol>
 
 <h2>อื่นๆ </h2>
@@ -78,3 +88,10 @@
 <li> <a href="https://nairienroo.wordpress.com/ ">อาจารย์บุญเลิศ คณาธนสาร </a></li>
 <li> <a href="https://www.facebook.com/curadio/videos/1494693993891376/ ">อะไรทำให้ “ฟินแลนด์” เป็นประเทศ “ต้นแบบการศึกษา” </a></li>
 <li> <a href="http://thaipublica.org/2015/09/varakorn-14-9-2558/ ">“วรากรณ์ สามโกเศศ” ชี้ 8 ยาพิษแอบแฝงกับการศึกษาไทย เหมือนปรอท ทำให้ตายทีละน้อย </a></li>
+<li> <a href="https://www.youtube.com/watch?v=qej_Fd4JzIY ">การอบรมเชิงปฏิบัติการพัฒนาคุณภาพผู้เรียนด้วยกิจกรรมจิตศึกษาและกิจกรรมการเรียนรู้บูรณาการแบบใช้ปัญหาเป็นฐาน(PBL) </a></li>
+<li> <a href="https://www.facebook.com/notes/thecoachinth/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%A7%E0%B8%B4%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B8%8D%E0%B8%B2%E0%B8%93-critical-thinking/1176649122396150/ ">การคิดเชิงวิจารณญาณ </a></li>
+<li> <a href="https://www.facebook.com/SucceedLife/videos/1410248242327610/ ">ทฤษฎีกระปุกทราย </a></li>
+<li> <a href="https://www.facebook.com/kmuttxclassroom/posts/1231825503575947 "> อธิการบดีฝาก ห้ามๆๆๆ</a></li>
+<li> <a href="https://www.youtube.com/watch?v=sSFSSowyEQs ">3 ways to know what students really think </a></li>
+<li> <a href="https://brightside.me/wonder-curiosities/10-facts-about-brain-work-which-prove-were-capable-of-anything-311910/ "> 10 Facts About Brain Work Which Prove We’re Capable of Anything</a></li>
+<li> <a href="http://www.trueplookpanya.com/new/cms_detail/teacher/26274 "> “ครูแท้แพ้ไม่เป็น” เสียงจากครูเรฟสู่การปฏิรูปครู</a></li>
