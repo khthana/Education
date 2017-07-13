@@ -110,4 +110,9 @@
 <li> <a href="https://www.youtube.com/watch?v=Pzz_q4pQeTM ">ตอนที่ 1 แนวการจัดกิจกรรมการเรียนรู้วิทยาศาสตร์ที่เน้นกระบวนการคิดวิเคราะห์ และแก้ปัญหา 11 ก.พ.60</a></li>
 <li> <a href="https://www.youtube.com/watch?v=hAr_ZOv6JMM ">โครงการพัฒนาเครื่องมือส่งเสริมการคิดวิเคราะห์สร้างสรรค์ของ OECD </a></li>
 <li> <a href="https://www.teacherspayteachers.com/Product/10-Team-Building-Games-That-Promote-Critical-Thinking-3072418 ">10 Team-Building Games That Promote Critical Thinking</a></li>
+<li> <a href="http://www.freetech4teachers.com/2016/05/great-tools-for-creating-screencasts.html#.WWdlp-lLeUl "></a>Great Tools for Creating Screencasts</li>
+<li> <a href=" "></a></li>
+<li> <a href="http://www.polyu.edu.hk/obe/10_1_Resources.php ">Outcome Based Education -- Hongkong Polytechnique</a></li>
+<li> <a href=" "></a></li>
+<li> <a href=" "></a></li>
 <li> <a href=" "></a></li>
