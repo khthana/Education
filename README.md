@@ -4,6 +4,7 @@
 <h2>Learning</h2>
 <ol>
 <li> <a href="https://thepotential.org/knowledge/learning-how-to-learn/">‘LEARNING HOW TO LEARN’ เรียนเพื่อเรียนรู้: คอร์สเรียนออนไลน์ที่มีผู้ชมมากที่สุดในโลก  </a></li>  
+</ol>
 
 <h2>KMUTT Curriculum Design Guide </h2>
 <ol>
