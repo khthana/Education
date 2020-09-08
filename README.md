@@ -1,6 +1,20 @@
 # Education
 รวม LInk เกี่ยวกับการศึกษา
 
+<h2>KMUTT Curriculum Design Guide </h2>
+<ol>
+  <li> <a href="https://bit.ly/3amiHpS"> 1) KMUTT Curriculum Design GUIDE (ฉบับเต็ม) </a></li>
+  <li> <a href="https://bit.ly/2ULjzhV"> 2) 7 Steps: การออกแบบหลักสูตร (ฉบับย่อ) </a></li>
+  <li> <a href="https://bit.ly/3f4Wct6"> 3) PODCAST EP2: แนะนำเอกสาร KMUTT Curriculum Design GUIDE และ 7 Steps: การออกแบบหลักสูตร </a></li>
+    <li> PODCAST:  7 Steps: การออกแบบหลักสูตร </li>
+  <li> <a href="https://youtu.be/ZvGwZZ5l7E0"> Step 1 และ Step 2 Stakeholder requirement and Perfect Graduates </a></li>
+  <li> <a href="https://youtu.be/EILaOMx1MwM"> Step 3 Program Learning Outcome  </a></li>
+  <li> <a href="https://youtu.be/shfktV1m3bU"> Step 4 PLO Breakdown  </a></li>
+  <li> <a href="https://youtu.be/YWALaTwmk5Q"> Step 5  Curriculum mapping  </a></li>
+  <li> <a href="https://youtu.be/BH7qVI1QaaQ"> Step 6 Constructive Alignment  </a></li>
+  <li> <a href="https://youtu.be/djcMhDqSC2w"> Step 7 Outcome Verification   </a></li>
+</ol>  
+  
 <ol>
 <li> <a href="https://www.youtube.com/channel/UCuTiR7WKiBN4IOGEFVnFTtA/videos">TEACHDENT SHARED</a></li>
 <li> <a href="https://www.youtube.com/watch?v=-tnttkNzUVM">หลักสูตรสร้างเว็บไซต์ E-Learning Platform มืออาชีพด้วย Moodle 3</a></li>
