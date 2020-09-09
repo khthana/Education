@@ -27,6 +27,7 @@
 
 <h4> ------------------------- </h4>
 <ol>
+<li> <a href="http://support.leb2.kmutt.ac.th/teacher-plan-th/create-plan-without-learning-outcome-th">การสร้างแผนการสอนโดยไม่กำหนดผลลัพธ์การเรียนรู้</a></li>  
 <li> <a href="https://www.youtube.com/channel/UCuTiR7WKiBN4IOGEFVnFTtA/videos">TEACHDENT SHARED</a></li>
 <li> <a href="https://www.youtube.com/watch?v=-tnttkNzUVM">หลักสูตรสร้างเว็บไซต์ E-Learning Platform มืออาชีพด้วย Moodle 3</a></li>
 </ol>
